@@ -1,0 +1,17 @@
+{
+  "name": "June Holiday",
+  "subtitle": "songwriter & producer",
+  "tagline": "June Holiday · songwriter & producer · somewhere near the sea",
+  "avatar": "/avatar.svg",
+  "badges": ["Seaside Conservatory", "Nightjar Records"],
+  "location": "Somewhere near the sea",
+  "timezone": "UTC+8",
+  "contactQr": null,
+  "socials": [
+    { "name": "GitHub", "url": "https://github.com/your-handle" },
+    { "name": "Email", "url": "mailto:you@example.com" },
+    { "name": "RSS", "url": "/blog" }
+  ],
+  "metaTitle": "June Holiday",
+  "metaDescription": "Songwriter & producer. Songs, stories, and where they were written."
+}

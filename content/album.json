@@ -1,0 +1,39 @@
+{
+  "title": "Night Trains",
+  "artist": "June Holiday",
+  "year": "2026",
+  "concept": "Three songs written in transit.\n\nEvery track on this EP started as a voice memo on a night train — a melody hummed against the window, the rhythm of the rails underneath. The album page is a workspace, not a museum: demos, half-finished lyrics, and the story of where each song came from, updated as the songs grow up.\n\nThis is the part of a record nobody usually gets to see.",
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Last Train Coast",
+      "status": "Demo",
+      "currentlyWorking": true,
+      "demo": "/demos/last-train-coast.mp3",
+      "story": "The 23:40 southbound, the one where the carriage lights dim after the second stop. The chorus arrived somewhere between two tunnels and I sang it into my phone with my coat over my head so the other passengers wouldn't hear.",
+      "lyrics": "",
+      "notes": "Chorus is done. Verses still sound like placeholder words — because they are.",
+      "tags": ["pop", "night"]
+    },
+    {
+      "number": "02",
+      "title": "Harbour Lights",
+      "status": "Idea",
+      "demo": "/demos/harbour-lights.mp3",
+      "story": "A city I've only seen from the water. The lights come up one hill at a time, like the town is deciding whether to wake up. This one wants to be a ballad; I keep trying to make it faster and it keeps refusing.",
+      "lyrics": "",
+      "notes": "",
+      "tags": ["ballad"]
+    },
+    {
+      "number": "03",
+      "title": "Return Ticket",
+      "status": "Demo",
+      "demo": "/demos/return-ticket.mp3",
+      "story": "Written on the way back, which is a different song than the way there. Same chords as track 01, on purpose — coming home should rhyme with leaving.",
+      "lyrics": "",
+      "notes": "",
+      "tags": ["rnb"]
+    }
+  ]
+}

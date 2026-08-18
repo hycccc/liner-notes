@@ -1,0 +1,18 @@
+[
+  {
+    "title": "This site",
+    "description": "The site you're looking at — music player, album workspace, travel map, agent-written blog. Fork it: it's a template.",
+    "status": "LIVE",
+    "tags": ["Next.js", "Tailwind CSS", "TypeScript"],
+    "url": "https://github.com/hycccc/liner-notes",
+    "icon": "Globe"
+  },
+  {
+    "title": "soundlabel",
+    "description": "An open-source framework for running an AI music label — the kind of label that might sign June Holiday.",
+    "status": "WIP",
+    "tags": ["Python", "AI agents"],
+    "url": "https://github.com/hycccc/soundlabel",
+    "icon": "Globe"
+  }
+]

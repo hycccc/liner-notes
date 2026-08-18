@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- 背景：深色圆角方块 -->
+  <rect width="32" height="32" rx="8" fill="#18181b"/>
+  <!-- Y 字母：两笔斜线 + 一竖 -->
+  <path d="M9 8 L16 17 L23 8" stroke="#f4f4f5" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <line x1="16" y1="17" x2="16" y2="25" stroke="#f4f4f5" stroke-width="2.8" stroke-linecap="round"/>
+  <!-- amber 装饰点 -->
+  <circle cx="16" cy="17" r="1.4" fill="#f59e0b"/>
+</svg>
